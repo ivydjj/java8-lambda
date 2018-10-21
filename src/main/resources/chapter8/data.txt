@@ -1,0 +1,1 @@
+linux知识帮助提升运维能力；hadoop主要提供hdfs存储，也提供资源框架yarn；hive作为数据仓库；hbase大数据存储；非关系型数据库redis、mongodb，提高数据查询速度；storm实时计算框架；spark批处理计算框架；中间件：kafka、flume、sqoop；zookeeper，协调框架；HA、分区、性能调优、、、

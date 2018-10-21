@@ -10,6 +10,10 @@ import java.util.List;
 
     和 Iterator 类似，Stream 是一种内部迭代方式
     内部迭代将更多控制权交给了集合类
+
+
+    Stream 是为构建内存中集合的计算流程而设计的
+
  */
 public class LambdaStreaming {
     public static void main(String[] args) {
